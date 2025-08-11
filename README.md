@@ -1,2 +1,2 @@
 # ESG-regulations
-The ESG documenta we use
+The ESG documents we use
